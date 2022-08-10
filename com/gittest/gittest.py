@@ -6,3 +6,5 @@ print("hello python and git")
 print("test2")
 
 print("testpush")
+
+print("testpull"）
